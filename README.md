@@ -50,7 +50,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
 <br />
 (Before moving to further steps kindly create a local database for the alembic commands to work. Also provide the path of the database in environment variables as      "Database_URL". The format for DATABASE_URL is : 'postgresql://username:password@localhost:port/databasename'.   
  Example : postgresql://postgres:Ganesha@localhost:5432/code-test )
-
+<br />
 
 - Initialize and upgrade the database using Alembic.
 
