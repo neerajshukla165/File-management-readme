@@ -5,7 +5,7 @@
 The file management service handles all the operations related to documents in platform. This comes into role as soon as the document is uploaded in toorak platform. It handles different tasks such as adding documents, adding tags, fetching documents, deleting multiple documents, etc. It stores all the file uploaded in platform to AWS S3 bucket. Similarly downloads the documents from S3. Thus overall this service handles all actions such as adding, fetching and storing documents details in database.
 
 <br />
-The below link provides overall Architecture of the service:
+The below link provides overall Architecture of the service:<br />
 [File-Management-service Architecture](https://toorakcapital.atlassian.net/wiki/spaces/PA/pages/234291362/Document+Domain)
 
 
