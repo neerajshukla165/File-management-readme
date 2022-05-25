@@ -52,6 +52,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
  Example : postgresql://postgres:Ganesha@localhost:5432/code-test )
 <br />
 
+
 - Initialize and upgrade the database using Alembic.
 
     - Generate your first revision.
