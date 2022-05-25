@@ -1,5 +1,13 @@
 ## File-management-service
 
+### About the service
+The file management service handles different tasks such as addDocuments, add_tags, adddocumentandtags, delete_documents, delete_multi_documents, etc.
+This comes into role as soon as the document is uploaded in box.com. It disables duplicate data for getting stored in database. 
+
+
+
+
+
 ### Getting Started
 ---------------
 Kindly follow below instructions for setting up your project locally. To get a local copy up and running follow these simple example steps.
