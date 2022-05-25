@@ -8,7 +8,7 @@ The file management service handles all the operations related to documents in p
 The below link provides overall Architecture of the service: <br />
 [File-Management-service Architecture](https://toorakcapital.atlassian.net/wiki/spaces/PA/pages/234291362/Document+Domain)
 
-
+<br />
 ### Getting Started
 ---------------
 Kindly follow below instructions for setting up your project locally. To get a local copy up and running follow these simple example steps.
