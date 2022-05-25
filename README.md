@@ -2,6 +2,22 @@
 
 ### Getting Started
 ---------------
+Kindly follow below instructions for setting up your project locally. To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Install pyramid
+```
+    pip install pyramid
+```
+
+### Installation
+- Clone the repo :
+```
+    https://github.com/Toorak-Capital/file-management-service.git
+```
+
+### Steps to be followed after cloning
 
 - Change directory into your newly created project.
 ```
