@@ -2,7 +2,7 @@
 
 ### About the service
 The file management service handles different tasks such as addDocuments, add_tags, adddocumentandtags, fetch_document, delete_documents, delete_multi_documents, etc.
-This comes into role as soon as the document is uploaded in box.com. It adds document to database, fetch all the documents of provided constraints and disables duplicate data from getting stored in database. 
+This comes into role as soon as the document is uploaded in toorak platform. It adds document to database, fetch all the documents of provided constraints and disables duplicate data from getting stored in database. 
 
 
 
