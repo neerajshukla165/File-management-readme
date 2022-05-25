@@ -2,8 +2,10 @@
 
 ### About the service
 
-The file management service handles all the operations related to documents in platform. This comes into role as soon as the document is uploaded in toorak platform. It handles different tasks such as adding documents, adding tags, fetching documents, deleting multiple documents, etc. It stores all the file uploaded in platform to AWS S3 bucket. Similarly downloads the required documents from S3. Thus overall this service handles all actions such as adding, fetching and storing documents details in database.
+The file management service handles all the operations related to documents in platform. This comes into role as soon as the document is uploaded in toorak platform. It handles different tasks such as adding documents, adding tags, fetching documents, deleting multiple documents, etc. It stores all the file uploaded in platform to AWS S3 bucket. Similarly downloads the documents from S3. Thus overall this service handles all actions such as adding, fetching and storing documents details in database.
 
+The below link provides overall Architecture of the service:
+[File-Management-service Architecture](https://toorakcapital.atlassian.net/wiki/spaces/PA/pages/234291362/Document+Domain)
 
 
 ### Getting Started
@@ -46,7 +48,8 @@ Kindly follow below instructions for setting up your project locally. To get a l
 ```
 
 
-(Before moving to further steps kindly create a local database for the alembic commands to work. Also provide the path of the database in environment variables as "Database URL")
+(Before moving to further steps kindly create a local database for the alembic commands to work. Also provide the path of the database in environment variables as      "Database_URL". The format for DATABASE_URL is : postgresql://username:password@localhost:port/databasename   
+ Example : postgresql://postgres:Ganesha@localhost:5432/code-test )
 
 
 - Initialize and upgrade the database using Alembic.
