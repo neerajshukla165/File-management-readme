@@ -1,10 +1,8 @@
 ## File-management-service
 
 ### About the service
-The file management service handles different tasks such as addDocuments, add_tags, adddocumentandtags, fetch_document, delete_documents, delete_multi_documents, etc.
-This comes into role as soon as the document is uploaded in toorak platform. It adds document to database, fetch all the documents of provided constraints and disables duplicate data from getting stored in database. 
 
-
+The file management service handles all the operations related to documents in platform. This comes into role as soon as the document is uploaded in toorak platform. It handles different tasks such as adding documents, adding tags, fetching documents, deleting multiple documents, etc. It stores all the file uploaded in platform to AWS S3 bucket. Similarly downloads the required documents from S3. Thus overall this service is handling all actions such as adding, fetching and storing documents details in database.
 
 
 
