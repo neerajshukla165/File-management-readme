@@ -81,4 +81,5 @@ Kindly follow below instructions for setting up your project locally. To get a l
     env/bin/pserve development.ini
   ```
 
-**_NOTE:_**  The above commands are applicable for Mac. For windows will have to replace bin with Scripts. Example- env/Scripts/pserve development.ini
+**_NOTE:_**  The above commands are applicable for Mac. For windows one will have to replace 'bin' with 'Scripts'.<br /> 
+Example- env/Scripts/pserve development.ini
