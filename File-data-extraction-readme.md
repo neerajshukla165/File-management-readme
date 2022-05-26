@@ -2,7 +2,7 @@
 
 ### About the service
 
-As the name suggests this service extracts data from excel file attached to the platform. It extracts different tables such as data mapper(Name of the key to which data from excel will be mapped), header pos(Eg:Property Location, Property Valuation), excel_sheet (Name of the worksheet in excel), etc. <br />
+As the name suggests, this service extracts data from excel file attached to the platform. It extracts different tables such as data mapper(Name of the key to which data from excel will be mapped), header pos(Eg:Property Location, Property Valuation), excel_sheet (Name of the worksheet in excel), etc. <br />
 
 The below link provides overall Architecture of the service:<br />
 [File-data-extraction Service](https://toorakcapital.atlassian.net/wiki/spaces/PA/pages/216236033/Data+Extraction+Service)
