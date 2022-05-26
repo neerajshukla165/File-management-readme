@@ -71,7 +71,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
 
 - Load default data into the database using a script.
     ```
-    env/bin/initialize_filemanagement_db development.ini
+    env/bin/initialize_result_evaluation_db development.ini
     ```
 
 - Run your project's tests.
