@@ -30,7 +30,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
 
 - Change directory into your newly created project.
 ```
-    cd filemanagement
+    cd data_extraction
 ```
 
 - Create a Python virtual environment.
