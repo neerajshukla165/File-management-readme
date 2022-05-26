@@ -25,7 +25,7 @@ Kindly follow below instructions for setting up your project locally. To get a l
 
 ### Environment Setup
 
-- AWS_ACCESS_KEY_ID <br />
+- AWS_ACCESS_KEY_ID 
 - AWS_DEFAULT_REGION <br />
 - AWS_SECRET_ACCESS_KEY <br />
 - BUCKET_NAME <br />
